@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309371435566",
+    "project_id": "findaseatfinal2",
+    "storage_bucket": "findaseatfinal2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309371435566:android:3f29b76b933bad16af3dbf",
+        "android_client_info": {
+          "package_name": "com.example.findaseatfinal2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEiKQRFo5-1K5SY3ZP8GEG12FVYDhQXTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
